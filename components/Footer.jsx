@@ -1,3 +1,3 @@
 function Footer() {
-  return (<footer>Powered by</footer>);
+  return (<footer>Footer Powered by temp One</footer>);
 }
